@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A sample web app that lets you use your site as an airhorn.",
   "devDependencies": {
-    "browser-sync": "^2.24.4",
+    "browser-sync": "^2.27.10",
     "comlinkjs": "^2.4.1",
     "del": "^1.2.0",
     "es6-promise": "^3.2.1",
